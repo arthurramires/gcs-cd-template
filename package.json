@@ -17,6 +17,7 @@
     "eslint": "^9.5.0",
     "eslint-plugin-promise": "^6.2.0",
     "globals": "^15.6.0",
+    "jsdom": "^26.1.0",
     "vitest": "^1.6.0"
   }
 }
